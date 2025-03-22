@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
+Allow:
 
-Sitemap: https://mrgeneralservice.com/sitemap.xml
+sitemap: https://mrgeneralservice.com/sitemap.xml
